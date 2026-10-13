@@ -6,6 +6,7 @@ import json, os, pathlib, sys, urllib.parse, urllib.request
 
 REPOS = [
     "MorpheApp/MicroG-RE"
+    "LNLenost/registro_elettronico"
 ]
 
 STATE_FILE = pathlib.Path("state.json")
